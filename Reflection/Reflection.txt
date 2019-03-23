@@ -1,0 +1,2 @@
+class = Reflection2
+method = doReflection2
